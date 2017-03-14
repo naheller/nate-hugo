@@ -6,8 +6,98 @@
     <description>Recent content on Nathan Heller</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 04 Mar 2017 18:54:36 -0800</lastBuildDate>
+    <lastBuildDate>Mon, 13 Mar 2017 18:06:16 -0700</lastBuildDate>
     <atom:link href="https://naheller.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title></title>
+      <link>https://naheller.github.io/projects/</link>
+      <pubDate>Mon, 13 Mar 2017 18:06:16 -0700</pubDate>
+      
+      <guid>https://naheller.github.io/projects/</guid>
+      <description>
+
+&lt;h1 id=&#34;projects&#34;&gt;Projects&lt;/h1&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;leafit&#34;&gt;Leafit&lt;/h2&gt;
+
+&lt;p&gt;Leafit is an iOS and Android camera app that uses self-teaching image recognition technology to identify photos of leaves. Users can pick up interesting leaves and access useful information about the plants and trees that they come from.&lt;/p&gt;
+
+&lt;p&gt;I am developing the &lt;a href=&#34;https://github.com/naheller/Leafit-Android&#34;&gt;Android&lt;/a&gt; version while my partner works on the &lt;a href=&#34;https://github.com/alecsavvy/leafit-ios&#34;&gt;iOS&lt;/a&gt; version.&lt;/p&gt;
+
+&lt;p&gt;More updates to come!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://naheller.github.io/resume/</link>
+      <pubDate>Mon, 13 Mar 2017 16:53:12 -0700</pubDate>
+      
+      <guid>https://naheller.github.io/resume/</guid>
+      <description>
+
+&lt;h1 id=&#34;nathan-heller&#34;&gt;Nathan Heller&lt;/h1&gt;
+
+&lt;p&gt;naheller@gmail.com&lt;br /&gt;
+linkedin.com/in/nathanheller&lt;br /&gt;
+github.com/naheller&lt;/p&gt;
+
+&lt;p&gt;(858) 735-2758&lt;br /&gt;
+Eugene, OR&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;
+
+&lt;h3 id=&#34;bs-computer-science-2019&#34;&gt;BS, Computer Science &amp;mdash; 2019&lt;/h3&gt;
+
+&lt;p&gt;University of Oregon&lt;/p&gt;
+
+&lt;h3 id=&#34;ba-english-literature-2013&#34;&gt;BA, English Literature &amp;mdash; 2013&lt;/h3&gt;
+
+&lt;p&gt;University of San Diego&lt;/p&gt;
+
+&lt;h3 id=&#34;tefl-certificate-2014&#34;&gt;TEFL Certificate &amp;ndash; 2014&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;Teaching English as a Foreign Language&lt;/em&gt;&lt;br /&gt;
+University of California, San Diego&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h2&gt;
+
+&lt;h3 id=&#34;cbt-nuggets&#34;&gt;CBT Nuggets&lt;/h3&gt;
+
+&lt;p&gt;Internal Training Intern &amp;mdash; 2017 (Current)&lt;/p&gt;
+
+&lt;h3 id=&#34;marvel-entertainment&#34;&gt;Marvel Entertainment&lt;/h3&gt;
+
+&lt;p&gt;Business Development Intern &amp;mdash; 2013&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Coordinated media assets and editorial production schedules for senior staff. Contributed research and draft materials for the 2014 &amp;ldquo;All-New Marvel NOW!&amp;rdquo; ad campaign. Wrote creative content for promotional trading cards and animated YouTube teasers.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;kpbs&#34;&gt;KPBS&lt;/h3&gt;
+
+&lt;p&gt;Video Production Intern &amp;mdash; 2013&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Assisted in the production of KPBS Evening Edition, a televised news broadcast based in San Diego. Operated studio cameras, audio equipment, lighting mounts and many other tools during live and recorded segments.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;the-vista-newspaper&#34;&gt;The Vista Newspaper&lt;/h3&gt;
+
+&lt;p&gt;Opinion Editor &amp;mdash; 2012&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Assigned story pitches to writers and directly oversaw collaborative editing process. Designed a five-page section from articles, graphics, and advertisements using Adobe InDesign.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;san-diego-magazine&#34;&gt;San Diego Magazine&lt;/h3&gt;
+
+&lt;p&gt;Editorial Intern &amp;mdash; 2012&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Wrote for and edited the magazine&amp;rsquo;s online blog using the Rivista CMS. Researched and cataloged local businesses in order to keep advertisement slots up-to-date.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>second</title>
@@ -15,7 +105,8 @@
       <pubDate>Sat, 04 Mar 2017 18:54:36 -0800</pubDate>
       
       <guid>https://naheller.github.io/blog/second/</guid>
-      <description></description>
+      <description>&lt;p&gt;second post text&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -24,34 +115,7 @@
       <pubDate>Sat, 04 Mar 2017 18:54:31 -0800</pubDate>
       
       <guid>https://naheller.github.io/blog/first/</guid>
-      <description>
-
-&lt;h1 id=&#34;cave-johnson&#34;&gt;Cave Johnson&lt;/h1&gt;
-
-&lt;hr /&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Science isn&amp;rsquo;t about WHY. It&amp;rsquo;s about WHY NOT!&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;corporate-experience&#34;&gt;Corporate Experience&lt;/h2&gt;
-
-&lt;dl&gt;
-&lt;dt&gt;1940-1980&lt;/dt&gt;
-&lt;dd&gt;&lt;p&gt;&lt;em&gt;CEO of Aperture Science&lt;/em&gt; (Upper Michigan, USA).&lt;/p&gt;
-
-&lt;p&gt;Supervised the development of various gels, and of a Portable
-Quantum Tunneling Device.&lt;/p&gt;&lt;/dd&gt;
-&lt;/dl&gt;
-
-&lt;h2 id=&#34;hobbies&#34;&gt;Hobbies&lt;/h2&gt;
-
-&lt;dl&gt;
-&lt;dt&gt;Interests&lt;/dt&gt;
-&lt;dd&gt;Refining moon rocks&lt;/dd&gt;
-&lt;/dl&gt;
+      <description>&lt;p&gt;first post text&lt;/p&gt;
 </description>
     </item>
     
